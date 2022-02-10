@@ -1,0 +1,21 @@
+.left {
+    display: inline-block;
+    background-color: green
+}
+
+.left .left-first {
+    background-color: red;
+}
+.left .left-second {
+    background-color:beige;
+}
+.right {
+    display: inline-block;
+    background-color: beige
+}
+.dright .right-first {
+     background-color: red
+}
+.right .right-second {
+    background-color: red
+}
